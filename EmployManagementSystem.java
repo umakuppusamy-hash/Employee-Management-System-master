@@ -1,7 +1,7 @@
 /******************** Importing Essential Libraries ************************/
 
-import java.util.*;
 import java.io.*;
+import java.util.*;
 
 
 /*************************** MENU OF EMS ****************************/
@@ -21,6 +21,7 @@ class MainMenu
     System.out.println("Press 3 : To Remove an Employee");
     System.out.println("Press 4 : To Update Employee Details");
     System.out.println("Press 5 : To Exit the EMS Portal");
+    System.out.println("Press 6 : successfully completed");
 
   }
 }
