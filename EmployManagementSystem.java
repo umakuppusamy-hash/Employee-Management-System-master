@@ -22,6 +22,7 @@ class MainMenu
     System.out.println("Press 4 : To Update Employee Details");
     System.out.println("Press 5 : To Exit the EMS Portal");
     System.out.println("Press 6 : successfully completed");
+    System.out.println("Press 7 : successfully exited");
 
   }
 }
